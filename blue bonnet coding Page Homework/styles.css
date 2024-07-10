@@ -1,0 +1,52 @@
+h1 {
+    font-size: 64px;
+    text-align: center;
+    color: #074186;
+}
+h2 {font-size: 48px;
+    text-align: center;
+}
+body {
+    background-color: #FEFDFD;
+    font-family: 'Vollkorn', serif;
+}
+p {
+    text-align: center;
+    font-weight: 600;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px;
+    padding-left: 50px;
+    
+}
+
+button {
+    color: #074186;
+    font-family: 'Vollkorn', serif;
+}
+footer {
+    background-color: #074186;
+    color: white;
+    padding-right: 150px;
+    padding-left: 0px;
+    margin: 0px;
+    width: 100%;
+    height: 250px;
+    display: inline-flex;
+    justify-content: space-evenly;
+}
+.horizontal {
+    display: inline-flex;
+    justify-content: space-evenly;
+    box-align: center;
+}
